@@ -1,0 +1,40 @@
+@media screen {
+    .top-page {
+        background-color: #2a607c;
+        padding: 15px;
+        display: flex;
+
+    }
+    .heading-01 {
+        color: white;
+        font-size: 50px;
+        margin: 10px;
+    }
+
+    .links {
+        list-style: none;
+        text-decoration: none;
+        color: white;
+        display: flex;
+        float: right;
+        padding-bottom: 20px;
+        margin-left: 20px;
+    }
+
+    a {
+        text-decoration: none;
+        color: white;
+    }
+}
+
+body {
+    background-color: lightgray;
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+}
+
+@media screen {
+    .front-image {
+        background-image: url(../img/digital-marketing-meeting.jpg)
+    }
+    
+}
